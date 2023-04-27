@@ -39,9 +39,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  image_picker: ^0.8.7+4
-  profanity_filter: ^2.0.0
-  clarifai_flutter: ^3.0.0
+  flutter_textfield_alert: ^1.0.0
+  http: ^0.13.3
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
